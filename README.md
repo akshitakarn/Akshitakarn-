@@ -2,7 +2,7 @@
 
 ### A curious learner diving into the world of **Forensic Science**, **Cyber Security**, and **AI**.
 
-- 🎓 B.Sc. in Forensic Science (upcoming)
+- 🎓 B.Sc. in cyber Forensic Science (undergraduate)
 - 💻 Learning: Python, Cyber Forensics, Ethical Hacking
 - 🔐 Intern: Cybersecurity (Forage)
 - 🌱 Exploring: AI, GitHub, Linux, Programming
